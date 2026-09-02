@@ -6,7 +6,6 @@ Navigating the data job market can feel fragmented and overwhelming. This projec
 By translating raw job titles, compensation packages, and global locations into clear visualizations, the dashboard delivers actionable insights into hiring demand and salary trends.
 
 
-* **Source File:** [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix)
 
 ---
 
