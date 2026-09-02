@@ -1,4 +1,4 @@
-# Data Career Insights Dashboard (Power BI)
+# Data Job Insights Dashboard (Power BI)
 ![Main Dashboard](/images/project%201-%20page%201.png)
 ## Project Overview
 Navigating the data job market can feel fragmented and overwhelming. This project turns thousands of real-world 2024 data science job postings into an interactive, central analytical hub designed for active job seekers, career transitioners, and professionals looking to evaluate market rate compensation.
